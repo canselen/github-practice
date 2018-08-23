@@ -1,0 +1,30 @@
+pseudo coder academy -- Get a dunk in -- 
+
+ball = orange round Item that would be comming at you with speed.
+recieve the ball = # take the coming ball by colapsing your hands around it tightly
+teammates = people who are in the court wearing same color shirts and shorts
+enmy.teammates = people who are not wearing same color shirts and short
+player = teammates + enmy.teammates
+chamber.1 = orange chamber that is fixed 3.2 meters that is far away from your bench
+chamber.2 = orange chamber that is fixed 3.2 meters that is close to your bench
+dripling = keep the ball bouncing between the left hand and the ground.
+
+# take place 5.9m to 0.3 diameter to the teammates with the ball.
+# do not crash with other objects and players
+# Stay inside court lines
+# /shout.bold "give me the ball ", repeat until you recieve the ball
+# neturelize = (0) the speed by using counter power
+# do
+# neturlize the ball in 0.3 seconds
+# end
+# run in a confortable speed == (15km/h to 18km/h) to the chamber.1
+# if 
+#enmy.teammates comes 0.7m close adjust speed to 100% 
+#end
+# close in on the chamber.1
+# when came to 0.8m radius distance grab the ball with to hands
+# shorten distance with two steps == 0.3 to 0.2 meters of distance
+# jump 2 meters 
+# leave one hand from the ball
+# grap chamber.1 with the hand you have let go off the ball
+# pass the ball from the top of the chamber.1 with your hand
