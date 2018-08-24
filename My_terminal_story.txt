@@ -1,0 +1,44 @@
+Last login: Thu Aug 23 12:07:26 on ttys000
+➜  ~ git:(master) ✗ cd desktop
+➜  desktop git:(master) ✗ cd Coder Academy Bootcamp
+cd: too many arguments
+➜  desktop git:(master) ✗ cd Coder\ Academy\ Bootcamp
+➜  Coder Academy Bootcamp git:(master) ✗ touch Terminal_Story
+➜  Coder Academy Bootcamp git:(master) ✗ echo " The  Command Line! - Devs window into the computer" >> Terminal_Story
+
+➜  Coder Academy Bootcamp git:(master) ✗ cd Terminal_Story
+
+cd: not a directory: Terminal_Story
+➜  Coder Academy Bootcamp git:(master) ✗ cd /Users/orion/Desktop/Coder\ Academy\ Bootcamp/Terminal_Story
+cd: not a directory: /Users/orion/Desktop/Coder Academy Bootcamp/Terminal_Story
+➜  Coder Academy Bootcamp git:(master) ✗ echo "this"
+this
+➜  Coder Academy Bootcamp git:(master) ✗ echo "Basic commands learnt as in 22.08.18" >> Terminal_Story
+➜  Coder Academy Bootcamp git:(master) ✗ echo ":" >> Terminal_Story
+➜  Coder Academy Bootcamp git:(master) ✗ echo " Well I did created this folder from the terminal... So far I can creat create, edit, locate,manuplate my directories, folders, files, and other sorts of file(ex: text, doc, jpeg ) with ease." >>  
+zsh: parse error near `\n'
+➜  Coder Academy Bootcamp git:(master) ✗ 
+➜  Coder Academy Bootcamp git:(master) ✗ echo " Well I did created this folder from the terminal... So far I can creat create, edit, locate,manuplate my directories, folders, files, and other sorts of file(ex: text, doc, jpeg ) with ease." >>  Terminal_story
+➜  Coder Academy Bootcamp git:(master) ✗ cat Terminal_Story
+ The  Command Line! - Devs window into the computer
+Basic commands learnt as in 22.08.18
+:
+ Well I did created this folder from the terminal... So far I can creat create, edit, locate,manuplate my directories, folders, files, and other sorts of file(ex: text, doc, jpeg ) with ease.
+➜  Coder Academy Bootcamp git:(master) ✗ mv Terminal_Story My\ Terminal_story
+➜  Coder Academy Bootcamp git:(master) ✗ ls
+Gitpractice       code              suedo
+My Terminal_story github-practice
+➜  Coder Academy Bootcamp git:(master) ✗ echo " In addition have learn how to use git work bench, stage, and repository. With that I did first 2 repos in githubboth learning git and github could be strugel if the instroducters in CA wasn't as good as they are in creating 3D/real-life models on githubs tree_branch system." >> My\ Terminal_story  
+➜  Coder Academy Bootcamp git:(master) ✗ echo " One more thing! I forgot to commit that I am keeping this log to let the internet beware about my journey through out the Coder Academy - 6 months of Bootcamp. So far It has been a quite pleasent and awsome journey to do what I did." >> My\ Terminal_story 
+➜  Coder Academy Bootcamp git:(master) ✗ cat My\ Terminal_story
+ The  Command Line! - Devs window into the computer
+Basic commands learnt as in 22.08.18
+:
+ Well I did created this folder from the terminal... So far I can creat create, edit, locate,manuplate my directories, folders, files, and other sorts of file(ex: text, doc, jpeg ) with ease.
+ In addition have learn how to use git work bench, stage, and repository. With that I did first 2 repos in githubboth learning git and github could be strugel if the instroducters in CA wasn't as good as they are in creating 3D/real-life models on githubs tree_branch system.
+ One more thing! I forgot to commit that I am keeping this log to let the internet beware about my journey through out the Coder Academy - 6 months of Bootcamp. So far It has been a quite pleasent and awsome journey to do what I did.
+➜  Coder Academy Bootcamp git:(master) ✗ git init
+Reinitialized existing Git repository in /Users/orion/Desktop/CAB/.git/
+➜  Coder Academy Bootcamp git:(master) ✗ exit
+
+[Process completed]
