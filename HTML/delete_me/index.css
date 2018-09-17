@@ -1,0 +1,34 @@
+ul li q {
+    color: orange;
+    opacity:0.8;
+    font-size: 25px;
+    font-weight: 25px;
+    ;
+}
+ul li s{
+    color: rgba(255, 247, 0, 0.817);
+    opacity:0.9;
+    font-size: 25px;
+    font-weight: 25px;
+}ul li b{
+    color: brown;
+    opacity:0.9;
+    font-size: 25px;
+    font-weight: 25px;
+}
+body{
+    color:white;
+    background-color: rgb(21, 134, 125);
+    background-image: url("http://lh3.googleusercontent.com/-IKKlwSC1sbU/UM9hk4yvWwI/AAAAAAAAIBI/EaE1KwwV4d4/s720/00358%252520IMG_7433%252520834%252520glauconite%25252020%252520mm.jpg");
+}
+
+p{
+    border-radius: 75%;
+    background-color: grey;
+    overflow:scroll;
+}
+ul {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+}
